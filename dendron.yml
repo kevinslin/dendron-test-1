@@ -8,5 +8,5 @@ site:
     siteRootDir: docs
     siteProtocol: https
     usePrettyRefs: true
-    assetsPrefix: dendron-test
+    assetsPrefix: dendron-test-1
     siteUrl: https://imalightbulb.github.io
